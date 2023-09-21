@@ -7,4 +7,4 @@ A simple image processing app using AWS EC2, S3, SQS. This project allows a user
 ### Part 2: Host a web server to allow file I/O with browser (S3FileUpload.war with Apache Tomcat)
 ![image](https://github.com/Benny-Chung/AWS/assets/78866329/7ca77594-aea4-49f2-9f46-8a8470673ab7)
 
-For a demonstrated flow, please refer to the "Runtime Screenshot" section in the .docx. Requirement and code description are also included in the .docx.
+For a demonstrated flow, please refer to the "Runtime Screenshot" section in report.pdf. Requirement and code description are also included in the report.pdf. Note that I have terminated my AWS instances so the website is no longer hosted.
